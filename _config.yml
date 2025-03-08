@@ -48,6 +48,6 @@ collections:
    writeups:
       output: false
    solutions:
-      output: false
+      output: true
    blog:
       output: true
