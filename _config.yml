@@ -1,7 +1,7 @@
 remote_theme: CaptainIRS/hacker-plus-theme
 
-title:
-author:
+title: Braindump
+author: xdubx
 description: 
 disqus_forum_shortname:
 google_site_verification_content: # The 'content' tag for site verification
@@ -46,8 +46,8 @@ collections:
       output: true
       permalink: /:name
    writeups:
-      output: true
+      output: false
    solutions:
-      output: true
+      output: false
    blog:
       output: true
