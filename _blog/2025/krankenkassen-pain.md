@@ -1,5 +1,9 @@
 ---
 layout: blog
+title: Deutschlands Krankenkassenproblem mit der Bürokratie
+tags: bürokratie krankenkassen
+comments: true
+date: 2024-10-10
 ---
 
 # Deutschlands Krankenkassenproblem mit der Bürokratie
